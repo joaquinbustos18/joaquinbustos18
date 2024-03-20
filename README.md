@@ -18,9 +18,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-white?style=for-the-badge&logo=whatsapp&logoColor=black">
 </a>
 </div>
-##
 
-<div align="left">
+
+<div align="left" direction="column">
 - 🔭 I’m currently working on I'm currently working on freelancer
 - 🌱 I’m currently learning new technologies
 - 🤔 I’m looking for help with ...
