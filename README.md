@@ -17,13 +17,9 @@
 <a href="https://api.whatsapp.com/send/?phone=542974712167&text&type=phone_number&app_absent=0" >
 <img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-white?style=for-the-badge&logo=whatsapp&logoColor=black">
 </a>
-
-<a href="" >
-<img alt="Static Badge" src="https://img.shields.io/badge/Web%20page-white?style=for-the-badge&logo=Web%20page&logoColor=black">
-
-</a>
 </div>
----
+##
+
 <div align="left">
 - 🔭 I’m currently working on I'm currently working on freelancer
 - 🌱 I’m currently learning new technologies
