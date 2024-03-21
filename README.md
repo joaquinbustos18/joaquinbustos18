@@ -21,7 +21,7 @@
 
 ---
 
-- 🔭 I’m currently working on I'm currently working on freelancer
+- 🔭 I’m currently working on freelancer
 
 - 👨‍💻 Website: www.comcode.com
 
